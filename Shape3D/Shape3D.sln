@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dimensionalClass", "dimensionalClass\dimensionalClass.csproj", "{1A4091DB-6CA2-4984-95B0-C006AFA33738}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tessting", "Tessting\Tessting.csproj", "{BA6DC6FE-C42E-439E-9642-B727133D11B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A4091DB-6CA2-4984-95B0-C006AFA33738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A4091DB-6CA2-4984-95B0-C006AFA33738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A4091DB-6CA2-4984-95B0-C006AFA33738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A4091DB-6CA2-4984-95B0-C006AFA33738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA6DC6FE-C42E-439E-9642-B727133D11B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6DC6FE-C42E-439E-9642-B727133D11B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6DC6FE-C42E-439E-9642-B727133D11B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6DC6FE-C42E-439E-9642-B727133D11B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
