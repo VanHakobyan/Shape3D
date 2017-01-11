@@ -6,5 +6,6 @@
         public abstract float massGet();
         public abstract float volumeGet();
         public abstract float areaGet();
+        protected Point3D Location { get; set; }
     }
 }

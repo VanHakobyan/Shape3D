@@ -40,10 +40,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AxisEnum.cs" />
     <Compile Include="dimensional.cs" />
     <Compile Include="ellipsoidal.cs" />
+    <Compile Include="IMovable.cs" />
     <Compile Include="parallelogram.cs" />
+    <Compile Include="Point3D.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShapeMover.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
