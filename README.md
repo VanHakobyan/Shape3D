@@ -9,7 +9,7 @@
 </p>
 
 
-```csharp
+```C#
             ellipsoidal elips = new ellipsoidal(5, 1.2f, 8, 1200); //parameters
             Console.WriteLine(elips.areaGet());    // area ellipsoidal
             Console.WriteLine(elips.massGet());    // mass ellipsoidal
@@ -23,8 +23,8 @@
             Console.WriteLine(paral.volumeGet());   //volume parallelogram
             paral.MoveBy(4.1f, 4f, 2.9f);//axis movement
             paral.MoveTo(5.3f,1.1f,3.8f);//axis movement
+ ```        
             
-            ```
  
  #### Dimensional space
  
