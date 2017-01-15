@@ -15,7 +15,7 @@ namespace Tessting
             elips.MoveBy(5f, 1.5f, 4.1f);
             elips.MoveTo(6.7f, 4f, 3f);
 
-            parallelogram paral = new parallelogram(1.5f, 5, 15, 800); //parameters
+            parallelepiped paral = new parallelepiped(1.5f, 5, 15, 800); //parameters
             Console.WriteLine(paral.areaGet());     //area parallelogram
             Console.WriteLine(paral.massGet());     //mass parallelogram
             Console.WriteLine(paral.volumeGet());   //volume parallelogram

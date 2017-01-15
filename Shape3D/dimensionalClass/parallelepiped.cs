@@ -2,12 +2,12 @@
 
 namespace dimensionalClass
 {
-    public class parallelogram : dimensional,IMovable
+    public class parallelepiped : dimensional,IMovable
     {
         private float a;
         private float b;
         private float h;
-        public parallelogram(float a, float b, float h, float r)
+        public parallelepiped(float a, float b, float h, float r)
         {
             this.a = a;
             this.b = b;
