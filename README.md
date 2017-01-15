@@ -4,10 +4,11 @@
 <p align="center">
 <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRu1EuBdKrtRTT1YSqnPlqoTqRTotlUaiBUb_nWYMIfRuhdTgwh">
 </p>
-![image](http://www.ditutor.com/solid_gometry/images/r.gif)
-+
-![image](http://evlm.stuba.sk/~velichova/Matematika2/Kniha/Kapitola2/Images1/obl2.gif)
 
+<div class="container">
+    <img class="one" alt scr="http://www.ditutor.com/solid_gometry/images/r.gif">
+    <img class="two" alt scr="http://evlm.stuba.sk/~velichova/Matematika2/Kniha/Kapitola2/Images1/obl2.gif">
+</div>
 
 
 
