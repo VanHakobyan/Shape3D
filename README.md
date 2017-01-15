@@ -6,11 +6,12 @@ Shape3D in have ellipsoidal , dimensional and parallelogram
 </p>
 <p align="left">
 <img src="http://www.ditutor.com/solid_gometry/images/r.gif">
-</p>
--
 <p align="right">
 <img src="http://evlm.stuba.sk/~velichova/Matematika2/Kniha/Kapitola2/Images1/obl2.gif">
 </p>
+</p>
+
+
 
 
 
