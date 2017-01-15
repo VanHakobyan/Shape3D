@@ -4,12 +4,9 @@
 <p align="center">
 <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRu1EuBdKrtRTT1YSqnPlqoTqRTotlUaiBUb_nWYMIfRuhdTgwh">
 </p>
-
-<div class="container">
-    <img class="http://www.ditutor.com/solid_gometry/images/r.gif" alt scr="http://www.ditutor.com/solid_gometry/images/r.gif">
-    <img class="http://evlm.stuba.sk/~velichova/Matematika2/Kniha/Kapitola2/Images1/obl2.gif" alt scr="http://evlm.stuba.sk/~velichova/Matematika2/Kniha/Kapitola2/Images1/obl2.gif">
-</div>
-
+<p align="center">
+<img src="https://i.gyazo.com/de98ec6468ce30475d73768ef314992c.png">
+</p>
 
 
 ```csharp
