@@ -1,6 +1,19 @@
 # Shape3D
 Shape3D in have ellipsoidal , dimensional and parallelogram
 
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/120-cell-inner.gif">
+</p>
+<p align="left">
+<img src="http://www.ditutor.com/solid_gometry/images/r.gif">
+</p>
+
+<p align="right">
+<img src="http://evlm.stuba.sk/~velichova/Matematika2/Kniha/Kapitola2/Images1/obl2.gif">
+</p>
+
+
+
 ```csharp
             ellipsoidal elips = new ellipsoidal(5, 1.2f, 8, 1200); //parameters
             Console.WriteLine(elips.areaGet());    // area ellipsoidal
