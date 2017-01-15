@@ -25,4 +25,10 @@
             paral.MoveTo(5.3f,1.1f,3.8f);//axis movement
             
             ```
+ 
+ #### Dimensional space
+ 
+In three-dimensional space, a Platonic solid is a regular, convex polyhedron. It is constructed by congruent regular polygonal faces with the same number of faces meeting at each vertex. Five solids meet those criteria:
+
+### For more *[Platonic solid](https://en.wikipedia.org/wiki/Platonic_solid) <br>
             
