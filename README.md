@@ -4,8 +4,7 @@
 <p align="center">
 <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRu1EuBdKrtRTT1YSqnPlqoTqRTotlUaiBUb_nWYMIfRuhdTgwh">
 </p>
-<p align="left">
-<img src="http://www.ditutor.com/solid_gometry/images/r.gif">
+![image](http://www.ditutor.com/solid_gometry/images/r.gif)
 
 ![image](http://evlm.stuba.sk/~velichova/Matematika2/Kniha/Kapitola2/Images1/obl2.gif)
 
