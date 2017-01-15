@@ -2,7 +2,7 @@
 Shape3D in have ellipsoidal , dimensional and parallelogram
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/120-cell-inner.gif">
+<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRu1EuBdKrtRTT1YSqnPlqoTqRTotlUaiBUb_nWYMIfRuhdTgwh">
 </p>
 <p align="left">
 <img src="http://www.ditutor.com/solid_gometry/images/r.gif">
