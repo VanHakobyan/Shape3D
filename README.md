@@ -1,5 +1,5 @@
 # Shape3D
-Shape3D in have ellipsoidal , dimensional and parallelogram
+## Shape3D in have ellipsoidal , dimensional and parallelepiped
 
 <p align="center">
 <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRu1EuBdKrtRTT1YSqnPlqoTqRTotlUaiBUb_nWYMIfRuhdTgwh">
@@ -7,10 +7,7 @@ Shape3D in have ellipsoidal , dimensional and parallelogram
 <p align="left">
 <img src="http://www.ditutor.com/solid_gometry/images/r.gif">
 
-
-<p align="right">
-<img src="http://evlm.stuba.sk/~velichova/Matematika2/Kniha/Kapitola2/Images1/obl2.gif">
-</p>
+![image](http://evlm.stuba.sk/~velichova/Matematika2/Kniha/Kapitola2/Images1/obl2.gif)
 
 
 
