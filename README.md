@@ -1,5 +1,5 @@
 # Shape3D
-## Shape3D in have ellipsoidal , dimensional and parallelepiped
+### * Shape3D in have ellipsoidal , dimensional and parallelepiped
 
 <p align="center">
 <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRu1EuBdKrtRTT1YSqnPlqoTqRTotlUaiBUb_nWYMIfRuhdTgwh">
