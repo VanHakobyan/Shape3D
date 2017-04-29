@@ -21,6 +21,7 @@ namespace Tessting
             Console.WriteLine(paral.volumeGet());   //volume parallelogram
             paral.MoveBy(4.1f, 4f, 2.9f);          // moveing BY
             paral.MoveTo(5.3f,1.1f,3.8f);            // moveing to
+
         } 
     }
 }
